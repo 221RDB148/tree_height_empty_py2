@@ -38,8 +38,8 @@ def main():
     # account for github input inprecision
 
     # input number of elements
-    # e = input()
-    e = 5
+    e = input()
+    # e = 5
 
     # input values in one variable, separate with space, split these values in an array
     v = input()
